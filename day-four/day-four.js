@@ -7,3 +7,4 @@ if (guess == 10) {
 } else {
 alert(lossMessage)
 }
+console.log();
